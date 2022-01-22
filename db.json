@@ -36,7 +36,7 @@
       {
         "id": 3,
         "read": false,
-        "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "message": "Lorem Ipsum is simply dummy text , more-or-less normal distribution of letters. There are many variations of passages of Lorem Ipsum",
          "PostDetail": {
             "title": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
