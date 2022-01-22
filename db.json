@@ -54,9 +54,9 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "title": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "title": "The point of using Lorem Ipsum",
             "isFavorited": false,
-           "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available"],
+           "comments": ["C1","C2", "C3"],
             "user": {
                     "name": "John",
                     "email": "jhonnat0@hotma",
