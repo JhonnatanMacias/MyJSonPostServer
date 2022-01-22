@@ -1,8 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
-}
+    "posts": [
+      {
+        "id": 1,
+        "read": false,
+        "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+         "PostDetail": {
+            "title": "It is a long established fact that a reader will be distracted by the readable content of a page when
+                    looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "isFavorited": false,
+           "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available", 
+                       "but the majority have suffered alteration in some form, by injected humour"],
+            "user": {
+                    "name": "Jhonnatan",
+                    "email": "jhonnatan120@hotma",
+                    "phone": "40121232312",
+                    "webSite": "myWebSite.url.com"
+            }
+         } 
+      }
+    ]
+  }
