@@ -5,7 +5,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
          "PostDetail": {
-            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?", "T of Lorem Ipsum available", 
                        "but the majority injected humour"],
@@ -22,7 +22,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?"],
             "user": {
@@ -38,7 +38,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text , more-or-less normal distribution of letters. There are many variations of passages of Lorem Ipsum",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?"],
             "user": {
@@ -54,7 +54,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum",
+            "postDescription": "The point of using Lorem Ipsum",
             "isFavorited": false,
            "comments": ["C1","C2", "C3"],
             "user": {
@@ -70,7 +70,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available"],
             "user": {
@@ -86,7 +86,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?", " Lorem Ipsum available"],
             "user": {
@@ -102,7 +102,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available"],
             "user": {
@@ -118,7 +118,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available"],
             "user": {
@@ -134,7 +134,7 @@
         "read": false,
         "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
          "PostDetail": {
-            "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "postDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
             "isFavorited": false,
            "comments": ["What is Lorem Ipsum?","Where does it come from?", "There are many variations of passages of Lorem Ipsum available"],
             "user": {
